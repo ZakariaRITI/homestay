@@ -28,7 +28,7 @@ Homestay 2030 est une plateforme web complète de réservation de logements. Ell
 
     Cloner le projet : git clone https://github.com/ZakariaRITI/homestay.git
 
-    Importer le fichier SQL du dossier /database dans votre base de données.
+    Importer le fichier SQL du dossier /bdd dans votre base de données.
 
     Configurer le fichier db.php.
 
