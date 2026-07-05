@@ -1,6 +1,6 @@
 Homestay 2030
 
-Plateforme de réservation de logements intelligente.
+Plateforme de réservation de logements.
 
 🚀 Description du projet
 
