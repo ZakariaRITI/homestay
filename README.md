@@ -5,6 +5,7 @@ Plateforme de réservation de logements.
 🚀 Description du projet
 
 Homestay 2030 est une plateforme web complète de réservation de logements. Elle intègre une brique d'Intelligence Artificielle innovante permettant une recommandation de prix dynamique pour les propriétaires.
+
 ✨ Fonctionnalités principales
 
     Système de réservation : Gestion complète des réservations (demande, validation, annulation).
