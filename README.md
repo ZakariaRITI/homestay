@@ -1,6 +1,7 @@
 Homestay 2030
 
 Plateforme de réservation de logements intelligente développée entre décembre 2025 et janvier 2026.
+
 🚀 Description du projet
 
 Homestay 2030 est une plateforme web complète de réservation de logements. Elle intègre une brique d'Intelligence Artificielle innovante permettant une recommandation de prix dynamique pour les propriétaires.
